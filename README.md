@@ -1,5 +1,5 @@
 
-### Olá, eu sou Arthur Alaete 👋
+### Olá, seja bem-vindo(a) 👋
 <hr/>
 <div>
   <a href="https://www.linkedin.com/in/arthur-alaete-618563217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -8,6 +8,7 @@
 
 #### Um pouco sobre mim...
 
+escreverei em breve...
 
 #### Sobre coisas pessoas
 - 🔭 Atualmente busco minha primeira oportunidade no mercado de trabalho como Desenvolvedor Web e/ou Mobile.
