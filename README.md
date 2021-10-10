@@ -2,7 +2,7 @@
 <h2 align="center">Olá, seja bem vindo(a)! 👋</h2> 
 
 <p align="center">
-Me chamo Arthur Alaete e sou um grande adimirador da tecnologia e das artes de modo geral. Desde sempre estive buscando aprender coisas novas dentro dessas áreas, e em umas dessas "jornadas" acabei conhecendo o desenvolvimento de sistemas, no qual me apaixonei rapidamente e hoje anseio construir meu futuro e minha carreira através deste mundo tão incrível e interessante. 
+Me chamo Arthur Alaete e sou um grande adimirador da tecnologia e das artes no modo geral. Desde sempre estive buscando aprender coisas novas dentro dessas áreas, e em umas dessas "jornadas" acabei conhecendo o desenvolvimento de sistemas, no qual me apaixonei rapidamente e hoje anseio construir meu futuro e minha carreira através deste mundo tão incrível e interessante. 
 </p>
 <div style=""display: inline-block" align="center">
   <h3>Minhas skills: </h3>
