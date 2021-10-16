@@ -2,7 +2,7 @@
 <h2 align="center">Olá, seja bem vindo(a)! 👋</h2> 
 
 <p align="center">
-Me chamo Arthur Alaete e sou um grande adimirador de tecnologia e das artes no modo geral. Desde sempre estive buscando aprender coisas novas em busca de encontrar e decidir meu caminho, e em umas dessas "jornadas" acabei conhecendo o desenvolvimento de sistemas, no qual me apaixonei rapidamente e hoje anseio construir meu futuro e minha carreira através deste mundo tão incrível e interessante. 
+Me chamo Arthur Alaete e sou um grande adimirador de tecnologia e de artes de modo geral (principalmente música). Desde sempre estive buscando aprender coisas novas a fim de encontrar e decidir meu caminho profissional, e em umas dessas "jornadas" acabei conhecendo o desenvolvimento de sistemas, no qual me apaixonei rapidamente e hoje anseio construir meu futuro e minha carreira através deste mundo tão incrível e interessante. 
 </p>
 <div style=""display: inline-block" align="center">
   <h3>Minhas skills: </h3>
@@ -16,9 +16,9 @@ Me chamo Arthur Alaete e sou um grande adimirador de tecnologia e das artes no m
 <br>                                                                                                              
 
 ### 🧑‍💻 Meu momento atual:
-- 🎓 Cursando ensino superior em Sistemas para Internet pelo IFRN(Instituto Federal do Rio Grande do Norte);
+- 🎓 Graduando em Sistemas para Internet pelo IFRN(Instituto Federal do Rio Grande do Norte);
 - 🔭 Estou em busca da minha primeira oportunidade no mercado de trabalho como Desenvolvedor Web e/ou Mobile;
-- 🌱 Tenho direcionado meus estudos para o desenvolvimento back-end(API's, ORM, NestJS e PostgreSQL).
+- 🌱 Meus estudos andam direcionados para o desenvolvimento back-end (API's com NestJS e banco de dados PostgreSQL).
 - 😮 Ando interessado em Clean Architecture, Clean Code e Design Patters;
 
 ### 📬 Contate-me:                                                                                                                                 
