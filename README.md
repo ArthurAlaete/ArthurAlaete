@@ -30,7 +30,7 @@ Me chamo Arthur Alaete e sou um grande admirador de tecnologia e de artes de mod
 <br>
 <br>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/ArthurAlaete">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurAlaete&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
