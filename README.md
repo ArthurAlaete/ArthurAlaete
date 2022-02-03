@@ -2,7 +2,7 @@
 <h2 align="center">Olá, seja bem vindo(a)! 👋</h2> 
 
 <p align="center">
-Me chamo Arthur Alaete e sou um grande admirador de tecnologia e de arte e suas diversas formas. Desde sempre estive buscando aprender coisas novas a fim de encontrar e decidir meu caminho profissional, e em umas dessas "jornadas" acabei conhecendo o desenvolvimento de sistemas, no qual me apaixonei rapidamente e hoje anseio construir meu futuro e minha carreira através deste mundo tão incrível e interessante. 
+Me chamo Arthur Alaete, sou um grande admirador de tecnologia que ama a arte e suas diversas formas. Graças a minha curiosidade aguçada sempre busquei aprender coisas novas, e em umas dessas "jornadas de conhecimento" acabei me deparando com o desenvolvimento de software, me apaixonei rapidamente e hoje anseio construir meu futuro e carreira através deste mundo tão incrível e interessante.
 </p>
 <div style=""display: inline-block" align="center">
   <h3>Minhas skills: </h3>
@@ -15,11 +15,11 @@ Me chamo Arthur Alaete e sou um grande admirador de tecnologia e de arte e suas 
 
 <br>                                                                                                              
 
-### 🧑‍💻 Meu momento atual:
-- 🎓 Graduando em Sistemas para Internet pelo IFRN(Instituto Federal do Rio Grande do Norte);
-- 🔭 Estou em busca da minha primeira oportunidade no mercado de trabalho como Desenvolvedor Web e/ou Mobile;
-- 🌱 Meus estudos andam direcionados para o desenvolvimento back-end (API's com NestJS e banco de dados PostgreSQL).
-- 😮 Ando interessado em Clean Architecture, Clean Code e Design Patters;
+### 🧑‍💻 Momento atual:
+- 🎓 Graduando em Sistemas para Internet pelo IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte);
+- 🔭 Estou em busca de uma primeira oportunidade no mercado de trabalho como Desenvolvedor Front-End;
+- 🌱 Apesar do foco de meus estudos ser o desenvolvimento Front-End, tenho buscado aprender e me aprofundar sobre Back-end e desenvolvimento de API's, utilizando principalmente TypeScript, NestJS e PostgreSQL. Bem recentemente, iniciei estudos sobre Java.
+- 😮 Ando bastante interessado em Clean Architecture, Clean Code e Design Patters;
 
 ### 📬 Contate-me:                                                                                                                                 
 <div>
