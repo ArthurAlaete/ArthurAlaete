@@ -1,7 +1,7 @@
 
 <h2 align="center">Olá, seja bem vindo(a)! 👋</h2> 
 
-<p align="center">
+<p align="left">
 Me chamo Arthur Alaete, sou um grande admirador de tecnologia que ama a arte e suas diversas formas. Graças a minha curiosidade aguçada, sempre busquei aprender coisas novas sobre os mais diversos assuntos, e em umas dessas "jornadas de conhecimento" acabei me deparando com a área de desenvolvimento de software. Hoje, anseio e busco construir uma carreira e um futuro através deste mundo tão incrível.
 </p>
 <div style=""display: inline-block" align="center">
