@@ -35,12 +35,14 @@ Me chamo Arthur Alaete, sou um grande admirador de tecnologia e que ama a arte e
   <a href="mailto:arthuralaetelopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
+<!-- 
 <br>
 <br>
 
 <div align="center">
   <a href="https://github.com/ArthurAlaete">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurAlaete&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArthurAlaete&default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlaete&layout=compact&theme=dark" />
 </div>
 <br>
+-->
