@@ -35,7 +35,7 @@ Me chamo Arthur Alaete, sou um grande admirador de tecnologia e amo a arte nas s
 
 ### 👨‍💻 Momento atual:
 - 🎓 Graduando em Sistemas para Internet pelo IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte);
-- 🏢 Trabalhando como desevolvedor Frontend na yube;
+- 🏢 Trabalhando como desenvolvedor Frontend na yube;
 - 🌱 Ando buscando principalmente aprimorar meus conhecimentos de Frontend. Aos poucos, também tenho estudado mais sobre Backend e DevOps, com foco em Typescript, NestJS, Postgres, Docker e Kubernetes.  
 
 ### 📬 Contate-me:                                                                                                                                 
