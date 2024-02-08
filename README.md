@@ -3,15 +3,15 @@
 
 <p align="left">
 
-<h4>Um pouco sobre mim: </h4>
+<h3>Um pouco sobre mim: </h3>
 Me chamo Arthur Alaete, tenho 29 anos e sou um desenvolvedor frontend aspirante a fullstack. Sou uma pessoa cheia de hobbies e paixões, e por esse motivo tive oportunidade de aprender e fazer várias coisas diferentes ao longo da minha vida. Gosto muito de animes, games, leitura, natureza e principalmente de música, que é minha maior paixão.
 
-<h4>Um pouco sobre minha jornada profisional: </h4>
+<h3>Um pouco sobre minha jornada profisional: </h3>
 Em 2018 tive meu primeiro contato com linguagens de programação, enquanto estudava e desejava me tornar um profissional de cyber security. Durante a faculdade algumas coisas foram mudando, e em meados de 2020 meu interesse por desenvolvimento de software começou a crescer, se tornando assim a área onde decidi me profissionalizar. Recentemente, trabalhei por 1 ano e 6 meses como analista de suporte técnico, e estou no meu sétimo mês atuando como desenvolvedor frontend. 
 
 </p>
 <div style=""display: inline-block" align="start">
-  <h4>🔥 Minhas principais skills: </h4> 
+  <h3>🔥 Minhas principais skills: </h3> 
   <!-- https://github.com/Ileriayo/markdown-badges -->
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,7 +25,7 @@ Em 2018 tive meu primeiro contato com linguagens de programação, enquanto estu
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <br>
-  <h4>📚 Também possuo conhecimento em: </h4>
+  <h3>📚 Também possuo conhecimento em: </h3>
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> 
@@ -39,12 +39,12 @@ Em 2018 tive meu primeiro contato com linguagens de programação, enquanto estu
 
 <br>
 
-#### 👨‍💻 Momento atual:
+### 👨‍💻 Momento atual:
 - 🎓 Graduando em Sistemas para Internet pelo IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte). Restando somente o TCC para a conclusão;
 - 🏢 Trabalhando como desenvolvedor frontend na yube;
 - 🌱 Tenho buscado aprimorar meus conhecimentos de frontend e aprender mais sobre backend. 
 
-#### 📬 Contate-me:                                                                                                                                 
+### 📬 Contate-me:                                                                                                                                 
 <div>
   <a href="https://www.linkedin.com/in/arthur-alaete-618563217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:arthuralaetelopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
